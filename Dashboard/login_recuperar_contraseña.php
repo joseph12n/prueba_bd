@@ -31,7 +31,7 @@
         return false;
         } else {
           alert("Contraseña cambiada, regrese a la página de inicio");
-          window.location.href = "login.html";
+          window.location.href = "login.php";
           return false;
         }
       }
